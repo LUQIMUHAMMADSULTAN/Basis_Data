@@ -1,13 +1,33 @@
-# Praktikum Basis Data
+<div align="center">
 
-Repository ini berisi kumpulan tugas praktikum Basis Data menggunakan MySQL.
+# 🗄️ Praktikum Basis Data
 
-## Daftar Praktikum
+Repository Tugas dan Latihan SQL
 
-- [Praktikum 1 — Relasi Tabel](./01-Relasi-Tabel/)
-- [Praktikum 2 — Kondisi Tabel](./02-Kondisi-Tabel/)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square)
 
-## Tools
+</div>
 
-- MySQL Server
-- MySQL Shell
+---
+
+## 📂 Daftar Praktikum
+
+<table>
+  <tr>
+    <th>Folder</th>
+    <th>Materi</th>
+  </tr>
+  <tr>
+    <td>📁 01-Relasi-Tabel</td>
+    <td>Relasi dan foreign key</td>
+  </tr>
+  <tr>
+    <td>📁 02-Kondisi-Tabel</td>
+    <td>Kondisi CASE dan IF</td>
+  </tr>
+</table>
+
+---
+
+📝 Dibuat untuk dokumentasi pembelajaran Basis Data.
