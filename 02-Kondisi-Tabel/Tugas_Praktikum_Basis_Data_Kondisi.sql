@@ -1,4 +1,3 @@
-
 -- ============================================
 -- PRAKTIKUM BASIS DATA
 -- Materi: Kondisi SQL menggunakan CASE dan IF

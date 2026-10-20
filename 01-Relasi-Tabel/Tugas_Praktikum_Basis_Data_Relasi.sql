@@ -1,4 +1,3 @@
-
 -- ============================================
 -- PRAKTIKUM BASIS DATA
 -- Materi: Relasi Antar Tabel
