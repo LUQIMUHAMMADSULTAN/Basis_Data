@@ -26,6 +26,10 @@ Repository Tugas dan Latihan SQL
     <td>📁 02-Kondisi-Tabel</td>
     <td>Kondisi CASE dan IF</td>
   </tr>
+  <tr>
+    <td>📁 03-Subquery-Tabel</td>
+    <td>Subquery menggunakan =, IN, & NOT IN</td>
+  </tr>
 </table>
 
 ---
